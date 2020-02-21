@@ -26,7 +26,7 @@
 <!--        <module>match</module>-->
     </modules>
     <properties>
-        <spring.version>4.1.6.RELEASE</spring.version>
+        <spring.version>5.2.3.RELEASE</spring.version>
     </properties>
     <dependencies>
         <dependency>
